@@ -23,4 +23,5 @@ On y trouve :
 Tout ça implémenter sur `Python`.
 
 
-![alt text](Robot-Exotec-BFxx.jpg)
+
+<img src="Robot-Exotec-BFxx.jpg" style="width:800px;height:300px;">
