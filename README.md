@@ -23,4 +23,4 @@ On y trouve :
 Tout ça implémenter sur `Python`.
 
 
-
+![alt text](Robot-Exotec-BFxx.jpg)
