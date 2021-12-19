@@ -24,4 +24,4 @@ Tout ça implémenter sur `Python`.
 
 
 
-<img src="Robot-Exotec-BFxx.jpg" style="width:800px;height:300px;">
+<img src="Robot-Exotec-BFXX-.jpg" style="width:800px;height:300px;">
