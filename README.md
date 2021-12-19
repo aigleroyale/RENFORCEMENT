@@ -4,21 +4,23 @@ C'est un projet dans lequel il fallait appliquer les méthodes de l'apprentissag
 
 On y trouve :
 
-La définition de l'environnement
+## La définition de l'environnement
 
-La définition des états
+## La définition des états
 
-La définition des actions
+## La définition des actions
 
-La définition des récompenses
+## La définition des récompenses
 
-Le Processus Décisionnel de Markov
+## Le Processus Décisionnel de Markov
 
-Le Q-learning
+## Le Q-learning
 
-La Différence Temporelle
+## La Différence Temporelle
 
-L'équation de Bellman
+## L'équation de Bellman
+
+Tout ça implémenter sur `Python`.
 
 
 
